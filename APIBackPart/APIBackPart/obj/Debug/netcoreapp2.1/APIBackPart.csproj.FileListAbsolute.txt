@@ -1,0 +1,28 @@
+C:\Users\User\source\repos\APIBackPart\APIBackPart\bin\Debug\netcoreapp2.1\APIBackPart.deps.json
+C:\Users\User\source\repos\APIBackPart\APIBackPart\bin\Debug\netcoreapp2.1\APIBackPart.runtimeconfig.json
+C:\Users\User\source\repos\APIBackPart\APIBackPart\bin\Debug\netcoreapp2.1\APIBackPart.runtimeconfig.dev.json
+C:\Users\User\source\repos\APIBackPart\APIBackPart\bin\Debug\netcoreapp2.1\APIBackPart.dll
+C:\Users\User\source\repos\APIBackPart\APIBackPart\bin\Debug\netcoreapp2.1\APIBackPart.pdb
+C:\Users\User\source\repos\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.csprojAssemblyReference.cache
+C:\Users\User\source\repos\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.AssemblyInfo.cs
+C:\Users\User\source\repos\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.dll
+C:\Users\User\source\repos\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.pdb
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\API Homework\p310-29-10-2019-Teymurff\APIBackPart\APIBackPart\bin\Debug\netcoreapp2.1\APIBackPart.deps.json
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\API Homework\p310-29-10-2019-Teymurff\APIBackPart\APIBackPart\bin\Debug\netcoreapp2.1\APIBackPart.runtimeconfig.json
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\API Homework\p310-29-10-2019-Teymurff\APIBackPart\APIBackPart\bin\Debug\netcoreapp2.1\APIBackPart.runtimeconfig.dev.json
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\API Homework\p310-29-10-2019-Teymurff\APIBackPart\APIBackPart\bin\Debug\netcoreapp2.1\APIBackPart.dll
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\API Homework\p310-29-10-2019-Teymurff\APIBackPart\APIBackPart\bin\Debug\netcoreapp2.1\APIBackPart.pdb
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\API Homework\p310-29-10-2019-Teymurff\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\API Homework\p310-29-10-2019-Teymurff\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\API Homework\p310-29-10-2019-Teymurff\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\API Homework\p310-29-10-2019-Teymurff\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\API Homework\p310-29-10-2019-Teymurff\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\API Homework\p310-29-10-2019-Teymurff\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.AssemblyInfo.cs
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\API Homework\p310-29-10-2019-Teymurff\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\API Homework\p310-29-10-2019-Teymurff\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.dll
+C:\Users\User\Desktop\PUSHIT\Asp.Net Core SamD pushit\API Homework\p310-29-10-2019-Teymurff\APIBackPart\APIBackPart\obj\Debug\netcoreapp2.1\APIBackPart.pdb
